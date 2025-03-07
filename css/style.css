@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+    border: 1px solid black;
+    height: 20em;
+    width: 100%;
+    align-items: center;
+}
+
+.slot {
+    height: 100%;
+    width: 33%;
+    border: 1px solid black;
+    font-size: 10em;
+}
+
+#freshWallet,
+#Balance,
+#result {
+
+    font-size: 3em;
+}
+
+h1 {
+    margin: auto;
+    font-size: 5em;
+
+}
